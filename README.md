@@ -16,6 +16,8 @@ You should have something like this :
 
 ![image](https://user-images.githubusercontent.com/59259007/128647917-d04ae061-544d-40fd-9823-60910e97ceee.png)
 
+Launch the sandbox gamemode 
+
 And it's done !
 
 
@@ -34,5 +36,7 @@ Après ça, glissez le fichier models de "RoleplayPropsMenu" dans le dossier san
 Vous devriez avoir quelque chose comme ça :
 
 ![image](https://user-images.githubusercontent.com/59259007/128647917-d04ae061-544d-40fd-9823-60910e97ceee.png)
+
+Lancez le gamemode sandbox
 
 Et c'est fini !
