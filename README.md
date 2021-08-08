@@ -20,7 +20,7 @@ Launch the sandbox gamemode
 
 And it's done !
 
-(it's an import of roleplayprops extended that I will update as the addon. I will also put props that are not part of roleplayprops extended)
+(this is an import of roleplayprops extended that I will update regularly. I will also put props that are not part of roleplayprops extended)
 
 ## Tutoriel en Français
 
@@ -42,4 +42,4 @@ Lancez le gamemode sandbox
 
 Et c'est fini !
 
-(c'est un import de roleplayprops extended que je mettrai à jours au fur l'addon. Je mettrai également des props ne faisant pas partie de roleplayprops extended)
+(c'est un import de roleplayprops extended que je mettrai à jour régulièrement. Je mettrai également des props ne faisant pas partie de roleplayprops extended)
