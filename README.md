@@ -1,6 +1,6 @@
 # S&box Props
 
-##Tutorial in English
+## Tutorial in English
 
 To install the props simply drag the RoleplayProps folder into your addons folder (Steam\steamapps\common\sbox\addons)
 
@@ -19,7 +19,7 @@ You should have something like this :
 And it's done !
 
 
-##Tutoriel en Français
+## Tutoriel en Français
 
 Pour installer les props glisser simplement le fichier RoleplayProps dans vos addons (Steam\steamapps\common\sbox\addons)
 
