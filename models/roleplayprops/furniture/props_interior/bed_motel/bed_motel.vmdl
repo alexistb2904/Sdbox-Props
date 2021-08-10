@@ -113,6 +113,30 @@
 							]
 						}
 					},
+					{
+						_class = "PhysicsHullFile"
+						name = "bed_motel_phy_1_mesh_copy"
+						parent_bone = ""
+						surface_prop = "default"
+						collision_prop = "default"
+						recenter_on_parent_bone = true
+						offset_origin = [ 0.0, 0.0, -11.0 ]
+						offset_angles = [ 0.0, 0.0, 0.0 ]
+						filename = "models/roleplayprops/furniture/props_interior/bed_motel/bed_motel_refs/phys/bed_motel_phy.dmx"
+						import_scale = 1.0
+						faceMergeAngle = 10.0
+						maxHullVertices = 0
+						import_mode = "SingleHull"
+						optimization_algorithm = "QEM"
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"bed_motel_phy_1_mesh",
+							]
+						}
+					},
 				]
 			},
 			{
