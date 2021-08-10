@@ -74,28 +74,6 @@
 				]
 			},
 			{
-				_class = "HitboxSetList"
-				children = 
-				[
-					{
-						_class = "HitboxSet"
-						name = "default"
-						children = 
-						[
-							{
-								_class = "Hitbox"
-								parent_bone = "0"
-								surface_property = "rock"
-								translation_only = false
-								group_id = 0
-								hitbox_mins = [ -76.967949, -40.047516, 0.0 ]
-								hitbox_maxs = [ 75.370522, 44.344231, 35.564121 ]
-							},
-						]
-					},
-				]
-			},
-			{
 				_class = "RenderMeshList"
 				children = 
 				[
