@@ -14,16 +14,32 @@
 						remaps = 
 						[
 							{
-								from = "barrier_props_concrete.vmat"
-								to = "materials/roleplayprops/furniture/decor/misc/alexprops/track_fence_01.vmat"
+								from = ""
+								to = "materials/roleplayprops/furniture/decor/misc/alexprops/track_fence.vmat"
 							},
 							{
-								from = "barrier_props_metal.vmat"
-								to = "materials/roleplayprops/furniture/decor/misc/alexprops/track_fence.vmat"
+								from = "barrier_props_concrete.vmat"
+								to = "materials/roleplayprops/furniture/decor/misc/alexprops/track_fence_01.vmat"
 							},
 						]
 						use_global_default = false
 						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "PhysicsBodyMarkupList"
+				children = 
+				[
+					{
+						_class = "PhysicsBodyMarkup"
+						target_body = ""
+						mass_override = 500.0
+						inertia_scale = 1.0
+						linear_damping = 0.0
+						angular_damping = 0.0
+						use_mass_center_override = false
+						mass_center_override = [ 0.0, 0.0, 0.0 ]
 					},
 				]
 			},
@@ -44,7 +60,7 @@
 						import_scale = 1.0
 						faceMergeAngle = 10.0
 						maxHullVertices = 0
-						import_mode = "HullPerElement"
+						import_mode = "HullPerMesh"
 						optimization_algorithm = "QEM"
 						import_filter = 
 						{
