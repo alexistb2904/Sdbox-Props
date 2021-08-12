@@ -6,7 +6,7 @@ Go in S&box and search MoreProps
 
 Credit :
 
-me 
+All rights go to the original creator of the props (CS-GO/CSS/HL1/HL2/TF2, Statua, Sickness, francis115, maxib123, u4lab, alexistb2904..) 
 
 RoleplayProps Extended : https://steamcommunity.com/sharedfiles/filedetails/?id=1246554779
 
