@@ -6,9 +6,13 @@
   "Schema": 1,
   "HasAssets": true,
   "AssetsPath": null,
-  "ResourcePaths": null,
+  "ResourcePaths": [],
   "HasCode": true,
   "CodePath": "code",
   "RootNamespace": "Sandbox",
-  "Metadata": {}
+  "Metadata": {
+    "MapList": [
+      "facepunch.construct"
+    ]
+  }
 }
