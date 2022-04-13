@@ -52,10 +52,16 @@
 						name = "track_fence_collide"
 						parent_bone = ""
 						surface_prop = "default"
-						collision_prop = "default"
+						collision_group = ""
+						collision_interact_as = ""
+						collision_interact_with = ""
+						collision_interact_exclude = ""
 						recenter_on_parent_bone = false
 						offset_origin = [ 0.0, 0.0, 0.0 ]
 						offset_angles = [ 0.0, 0.0, 0.0 ]
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
 						filename = "models/roleplayprops/furniture/alexprops/track_fence/track_fence_collide.fbx"
 						import_scale = 1.0
 						faceMergeAngle = 10.0
@@ -93,8 +99,9 @@
 				]
 			},
 		]
-		model_archetype = ""
-		primary_associated_entity = ""
+		model_archetype = "static_prop_model"
+		primary_associated_entity = "prop_static"
 		anim_graph_name = ""
+		base_model_name = ""
 	}
 }
